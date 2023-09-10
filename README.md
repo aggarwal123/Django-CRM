@@ -14,10 +14,10 @@ Django CRM is a Customer Relationship Management (CRM) web application built usi
 
 ### Prerequisites
 
-- Python (3.11.4)
-- Required Python libraries: Django
+- You need Python 3.11.4 or a compatible version. You can download Python from the official website: **[Python Downloads](https://www.python.org/downloads/)**.
+- Required Python libraries: **Django**
 - To install Django use pip (**pip install Django**)
-- Download PostgreSQL Database from **[PostgreSQL](https://www.postgresql.org/download/)**
+- Download PostgreSQL Database from: **[PostgreSQL Download](https://www.postgresql.org/download/)**
 
 ### Installation and Usage
 
