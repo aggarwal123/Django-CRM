@@ -25,4 +25,4 @@ Django CRM is a Customer Relationship Management (CRM) web application built usi
 - Open a terminal or command prompt.
 - Navigate to the project directory: **cd /Path/To/directory**
 - Run the application: **python manage.py runserver**
-- Open a web browser and visit **http://127.0.0.1:5000**, allowing you to interact with the application.
+- Open a web browser and visit **http://127.0.0.1:8000**, allowing you to interact with the application.
